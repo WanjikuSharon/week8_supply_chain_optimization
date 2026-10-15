@@ -1,0 +1,7 @@
+Plant,DC,Units,Cost
+Plant_A,DC_Our_Region,2100,4410.0
+Plant_A,DC_South,300,1350.0
+Plant_B,DC_North,5200,9360.0
+Plant_B,DC_West,1800,8460.0
+Plant_C,DC_South,4000,8000.0
+Plant_C,DC_West,2000,6600.0
